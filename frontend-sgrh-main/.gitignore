@@ -1,0 +1,10 @@
+.next/
+node_modules/
+out/
+dist/
+.env*.local
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+tsconfig.tsbuildinfo
